@@ -1,1 +1,15 @@
-/* Empty file for template. Remember to edit only this file and not the HTML file */
+.intro{
+display: flexbox;
+background-color: rgb(245, 166, 102); 
+font-style:italic;
+background: url(bleach-tybw-op-3-64-uhq-wallpapers-link-with-all-in-the-v0-cokluukjq9xd1.png) no-repeat;
+font-weight: 1000;
+border-top: 0cqmin gray;
+border-left: 0dvi grey;
+border-right: 0cap grey;
+padding: 22%;
+}
+.supporting{
+    background:url(bleach-tybw-op-3-64-uhq-wallpapers-link-with-all-in-the-v0-cokluukjq9xd1.png) grey;
+padding: 30%;
+}
