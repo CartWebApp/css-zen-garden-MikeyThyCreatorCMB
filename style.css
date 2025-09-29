@@ -10,7 +10,12 @@ border-right: 0cap grey;
 padding: 22%;
 }
 .supporting{
-    background:url(bleach-tybw-op-3-64-uhq-wallpapers-link-with-all-in-the-v0-cokluukjq9xd1.png) rgb(159, 155, 155);
-padding: 22%;
-position: relative;
+ 
+ background: url(110403.jpg) no-repeat;  
+ padding-right: 30%;
+ text-decoration-color: azure;
+
+}
+.summary{
+    background-color: white;
 }
