@@ -1,21 +1,85 @@
+/*.extra2{
+content: "";
+    background: url(bleach-tybw-op-3-64-uhq-wallpapers-link-with-all-in-the-v0-cokluukjq9xd1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75%;
+    height: 75%;
+    position: absolute;
+    top:0%
+    right 
+
+
+
+
+
+
+
+
+
+
+/* .extra1 {
+    background: url(bc3b209e6990f2e8717e9d7c6acd7d5e.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 0vh;
+    right: 0vw;
+    z-index: -10;
+} */
+
 .intro{
 display: flexbox;
-background-color: rgb(179, 144, 144); 
+/* background-color: rgb(179, 144, 144);  */
 font-style:italic;
-background: url() no-repeat;
+/* background: url() no-repeat; */
 font-weight: 1000;
-border-top: 0cqmin rgb(69, 59, 59);
-border-left: 0dvi grey;
-border-right: 0cap grey;
-padding: 22%;
+/* border-top: 0cqmin rgb(69, 59, 59); */
+/* border-left: 0dvi grey; */
+/* border-right: 0cap grey; */
+padding: 16%;
+
 }
 .supporting{
- 
- background: url(110403.jpg) no-repeat;  
+   
  padding-right: 30%;
- text-decoration-color: azure;
+ text-decoration-color: red;
+ background-color: rgba(58, 55, 55, 0.17);
+ padding: 2rem;
 
+
+}
+
+.supporting::after{
+    content: "";
+    background: url(bc3b209e6990f2e8717e9d7c6acd7d5e.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75%;
+    height: 75%;
+    position: absolute;
+    top: 88vh;
+    right: 2vw;
+    z-index: -10;
+    justify-content: space-around
+    ;
 }
 .summary{
     background-color: white;
+}
+.supporting::before{
+    content: "";
+    background: url(bleach-tybw-op-3-64-uhq-wallpapers-link-with-all-in-the-v0-cokluukjq9xd1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75%;
+    height: 75%;
+    position: absolute;
+    top:0%
 }
