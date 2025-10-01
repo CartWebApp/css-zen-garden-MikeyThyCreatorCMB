@@ -8,7 +8,8 @@ content: "";
     height: 75%;
     position: absolute;
     top:0%
-    right 
+    right ovw;
+    z-index:-10
 
 
 
@@ -41,7 +42,8 @@ font-weight: 1000;
 /* border-top: 0cqmin rgb(69, 59, 59); */
 /* border-left: 0dvi grey; */
 /* border-right: 0cap grey; */
-padding: 16%;
+padding: 18%;
+
 
 }
 .supporting{
@@ -51,7 +53,6 @@ padding: 16%;
  background-color: rgba(58, 55, 55, 0.17);
  padding: 2rem;
 
-
 }
 
 .supporting::after{
@@ -60,11 +61,11 @@ padding: 16%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 75%;
-    height: 75%;
+    width: 100%;
+    height: 100%;
     position: absolute;
     top: 88vh;
-    right: 2vw;
+    right: 14vh;
     z-index: -10;
     justify-content: space-around
     ;
@@ -78,8 +79,36 @@ padding: 16%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 75%;
-    height: 75%;
+    width: 30vw;
+    height: 20vh;
     position: absolute;
     top:0%
+
 }
+/*.extra{
+    content: "";
+    background: url(shinji-has-to-be-one-of-the-funniest-characters-in-bleach-v0-q4v5gf4xh0sd1.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 0vh;
+    right: 0vw;
+    z-index: -10;
+    */
+    
+    .page-wrapper{
+        
+        background-image: url(il_fullxfull.7219003309_acmi.webp);
+        background-position: bottom center;
+
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 100%;
+        z-index: -10;
+        justify-content: space-around
+     }
+    
